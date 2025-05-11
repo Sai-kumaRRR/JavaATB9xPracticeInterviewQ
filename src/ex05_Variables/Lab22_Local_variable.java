@@ -1,4 +1,4 @@
-package ex04_DataType;
+package ex05_Variables;
 
 public class Lab22_Local_variable {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package ex06_Literals;
 
-public class Lab31_Non_primitivedatatype {
+public class Lab31_Non_primitiveLiterals {
     public static void main(String[] args) {
 
         // Primitive Data Type - Defined by Java Guys

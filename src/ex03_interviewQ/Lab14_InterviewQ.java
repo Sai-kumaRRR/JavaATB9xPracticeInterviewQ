@@ -1,4 +1,6 @@
-public class ex03_InterviewQ {
+package ex03_interviewQ;
+
+public class Lab14_InterviewQ {
     public static void main(String[] args) {
         int _ = 65;
         int $ = 65;
