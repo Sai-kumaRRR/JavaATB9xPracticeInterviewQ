@@ -19,14 +19,14 @@ public class Lab30_Chr_Literals06 {
         char back_space = '\b';
         char carriage_return = '\r';
 
-        System.out.println("PramodDutta");
-        System.out.println("Pramod"+new_line+"Dutta");
-        System.out.println("Pramod\nDutta");
-        System.out.println("Pramod"+tab_line+"Dutta");
-        System.out.println("Pramod"+back_space+"Dutta");
+        System.out.println("Saikumar");
+        System.out.println("Sai"+new_line+"kumar");
+        System.out.println("Sai\nkumar");
+        System.out.println("Sai"+tab_line+"kumar");
+        System.out.println("Sai"+back_space+"kumar");
         System.out.println( " ----- ");
 
-        System.out.println("Pramod is "+carriage_return+"Dutta");
+        System.out.println("Sai is "+carriage_return+"kumar");
 
         System.out.println("Hi, This is a First line"+new_line+"This is second line\n This is Third line");
 
